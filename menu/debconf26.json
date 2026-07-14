@@ -1,12 +1,12 @@
 {
-	"version": 2019122000,
+	"version": 2026071400,
 	"url": "https://debconf26.debconf.org/schedule/pentabarf.xml",
 	"title": "DebConf 26",
 	"start": "2026-07-13",
 	"end": "2026-07-25",
 	"timezone": "America/Argentina/Cordoba",
 	"metadata": {
-		"icon": "https://debconf26.debconf.org/static/img/logo.8224b7f40c56.png",
+		"icon": "https://debconf26.debconf.org/static/img/logo-debconfest.64ffee839c49.svg",
 		"links": [
 			{
 				"url": "https://debconf26.debconf.org/",
